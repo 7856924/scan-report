@@ -1,6 +1,6 @@
 # scan-report
 Nmap scan results and analysis for identifying open ports and potential security risks on a local network
- 1. Identify IP Configuration (Windows)
+# 1. Identify IP Configuration (Windows)
 
 Open **Command Prompt** and run:
 
